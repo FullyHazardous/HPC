@@ -12,5 +12,8 @@ cp filename.txt filename4.txt
 
 # test results for four 1024MB fies:
 copy.py - 8.287555631 seconds
+
 thread.py - 5.627334852000001 seconds
+
 processes.py - 4.254924563 seconds 
+
